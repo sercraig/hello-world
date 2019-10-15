@@ -1,2 +1,2 @@
 # hello-world
-Learning the github
+I am new to Github but am trying this out. I spend my days as a technical editor and writing, overseeing international subject matter experts and helping them create IT skill assessment tests. Over the last decade I have more than double the company's test library to over 400 titles, adding important and popular titles likes HTML5, PHP, Data Science/AI&ML/Data Analytics, Linux Administration, UI/UX, Android and iOS Application Development, and many more.I also write and update company documentation, SOPs, and marketing materials. I also handle customer and sales support. Basically, whatever needs to be done.
